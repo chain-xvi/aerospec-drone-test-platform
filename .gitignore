@@ -1,0 +1,5 @@
+# vendored three.js module is restored via scripts/fetch-vendor.sh
+vendor/three.module.js
+node_modules/
+*.log
+.DS_Store
